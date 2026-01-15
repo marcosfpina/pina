@@ -45,4 +45,4 @@
 **Seeking:** Site Reliability Engineer (SRE) / Platform Engineer / SecDevOps
 **Value Proposition:** Bridging the gap between Low-level Systems (C/Rust), Modern Infra (Nix/K8s), and AI Integration.
 
-[📧 Email] • [🔗 LinkedIn] • [🌐 Portfolio]
+[📧 Email: pina@voidnx.com] • [🔗 LinkedIn: https://www.linkedin.com/in/marcos-ferreira-83a151360/] • [🌐 Portfolio: https://github.com/marcosfpina/pina]
